@@ -1,4 +1,5 @@
 let count=0;
+//select using query selectors
 let value=document.querySelector(".value");
 let btns=document.querySelectorAll(".btn");
 
